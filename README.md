@@ -191,7 +191,7 @@ comas.<br>
 ![10](https://user-images.githubusercontent.com/91631138/143614032-eddbde75-95cb-4312-9522-8dbd6d1948ac.png)
 
 ### HTML11
-Mostrar una foto en la página:
+Mostrar una foto en la página y si arrastras el raton encima de la foto verás un comentario:
 ```
 <html>
 <head>
